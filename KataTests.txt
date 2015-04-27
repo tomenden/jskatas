@@ -1,0 +1,5 @@
+RomanNumerals.toRoman(101); 'CI'
+RomanNumerals.toRoman(4); 'IV'
+RomanNumerals.toRoman(1990); 'MCMXC'
+RomanNumerals.toRoman(1000); // should return 'M'
+RomanNumerals.fromRoman('M'); // should return 1000

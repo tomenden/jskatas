@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd39b4d0-4382-45fe-866a-28386c77103c" name="Default" comment="" />
+    <ignored path="JavaScript Katas.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="JavaScript Katas" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="vertical" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="tests.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/tests/tests.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="23" max-vertical-offset="459">
+                  <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+                  <folding>
+                    <element signature="n#!!block;n#hanoi#0" expanded="true" />
+                    <element signature="n#!!block;n#solve#0;n#!!block;n#hanoi#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="moreTests.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/tests/moreTests.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="vip.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/vip-email/vip.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="12919" max-vertical-offset="13396">
+                  <caret line="775" column="18" selection-start-line="775" selection-start-column="18" selection-end-line="775" selection-end-column="18" />
+                  <folding>
+                    <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#a#0;n#td#0;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#1;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#a#0;n#td#1;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#a#0;n#td#1;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#2;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#a#0;n#td#2;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#3;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#a#0;n#td#3;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#4;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#a#0;n#td#4;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#5;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#a#0;n#td#5;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#0;n#table#1;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#table#1;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#1;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#1;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#span#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#a#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#span#0;n#td#2;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#a#0;n#span#0;n#td#2;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#tr#1;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#a#0;n#span#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#span#0;n#td#2;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#a#0;n#span#0;n#td#2;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#3;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#4;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#span#0;n#td#4;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#a#0;n#span#0;n#td#4;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#tr#3;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#a#0;n#span#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#span#0;n#td#2;n#tr#0;n#table#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#a#0;n#span#0;n#td#2;n#tr#0;n#table#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#tr#5;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#a#0;n#span#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#9;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#span#0;n#td#0;n#tr#11;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#a#1;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#a#2;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#a#3;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#a#4;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#img#0;n#a#5;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="dynamicChunk.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/vip-email/dynamicChunk.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12529">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="751" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="dynamicChunk.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/vip-email/dynamicChunk.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="11968" max-vertical-offset="12529">
+                  <caret line="724" column="18" selection-start-line="724" selection-start-column="18" selection-end-line="724" selection-end-column="18" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/complexCSVparser.js" />
+        <option value="$PROJECT_DIR$/fibonacci/fibonacci.js" />
+        <option value="$PROJECT_DIR$/hanoi-towers/testingStuff.js" />
+        <option value="$PROJECT_DIR$/hanoi-towers/hanoi-towers.js" />
+        <option value="$PROJECT_DIR$/hanoi-towers/hanoi2.js" />
+        <option value="$PROJECT_DIR$/theGoodPartsProblems/1.js" />
+        <option value="$PROJECT_DIR$/theGoodPartsProblems/6-9.js" />
+        <option value="$PROJECT_DIR$/theGoodPartsProblems/6-15.js" />
+        <option value="$PROJECT_DIR$/sumIntervals.js" />
+        <option value="$PROJECT_DIR$/vipEmail.html" />
+        <option value="$PROJECT_DIR$/wordCharLineCount.js" />
+        <option value="$PROJECT_DIR$/bubbleSort.js" />
+        <option value="$PROJECT_DIR$/sorting/quickSort.js" />
+        <option value="$PROJECT_DIR$/aichallenges.appspot.com/intro.js" />
+        <option value="$PROJECT_DIR$/aichallenges.appspot.com/authors.js" />
+        <option value="$PROJECT_DIR$/aichallenges.appspot.com/authors-better-solution.js" />
+        <option value="$PROJECT_DIR$/aichallenges.appspot.com/authors-bayes-attempt.js" />
+        <option value="$PROJECT_DIR$/vip-email/regular.html" />
+        <option value="$PROJECT_DIR$/aichallenges.appspot.com/combinationsRecursive.js" />
+        <option value="$PROJECT_DIR$/aichallenges.appspot.com/schedule.js" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/knapsackTakeTwo.js" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/knapsack.js" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/knapsackThree.js" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/subsetSum.js" />
+        <option value="$PROJECT_DIR$/validateSudoku.js" />
+        <option value="$PROJECT_DIR$/SudokuSolutionValidator.js" />
+        <option value="$PROJECT_DIR$/KataInstructions.txt" />
+        <option value="$PROJECT_DIR$/KataTests.txt" />
+        <option value="$PROJECT_DIR$/RomanNumeralsHelperTakeTwo.js" />
+        <option value="$PROJECT_DIR$/stacks-and-recursion-elimination/fibonacci.js" />
+        <option value="$PROJECT_DIR$/stacks-and-recursion-elimination/tailRecursionRemoval.js" />
+        <option value="$PROJECT_DIR$/tests/tests.js" />
+        <option value="$PROJECT_DIR$/tests/moreTests.js" />
+        <option value="$PROJECT_DIR$/vip-email/dynamicChunk.html" />
+        <option value="$PROJECT_DIR$/vip-email/vip.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript Katas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript Katas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript Katas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript Katas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript Katas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vip-email" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript Katas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript Katas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stacks-and-recursion-elimination" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript Katas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript Katas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hanoi-towers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="preferences.sourceCode" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/tome/WebstormProjects/JavaScript Katas/hanoi-towers/hanoi-towers.js" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tome\WebstormProjects\JavaScript Katas\sorting" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.moreTests.js">
+    <configuration default="false" name="tests.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="tests.js" working-dir="$PROJECT_DIR$/tests">
+      <RunnerSettings RunnerId="Basic" />
+      <RunnerSettings RunnerId="debuggableProgram" />
+      <ConfigurationWrapper RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="debuggableProgram" />
+      <method />
+    </configuration>
+    <configuration default="false" name="RomanNumeralsHelperTakeTwo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="RomanNumeralsHelperTakeTwo.js" working-dir="$PROJECT_DIR$">
+      <RunnerSettings RunnerId="Basic" />
+      <RunnerSettings RunnerId="debuggableProgram" />
+      <ConfigurationWrapper RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="debuggableProgram" />
+      <method />
+    </configuration>
+    <configuration default="false" name="moreTests.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="moreTests.js" working-dir="$PROJECT_DIR$/tests">
+      <RunnerSettings RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="Basic" />
+      <method />
+    </configuration>
+    <configuration default="false" name="fibonacci.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="fibonacci.js" working-dir="$PROJECT_DIR$/stacks-and-recursion-elimination">
+      <RunnerSettings RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="Basic" />
+      <method />
+    </configuration>
+    <configuration default="false" name="tailRecursionRemoval.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="tailRecursionRemoval.js" working-dir="$PROJECT_DIR$/stacks-and-recursion-elimination">
+      <RunnerSettings RunnerId="Basic" />
+      <RunnerSettings RunnerId="debuggableProgram" />
+      <ConfigurationWrapper RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="debuggableProgram" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.tests.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.RomanNumeralsHelperTakeTwo.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.moreTests.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.fibonacci.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.tailRecursionRemoval.js" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.moreTests.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.tailRecursionRemoval.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.fibonacci.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.tests.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.RomanNumeralsHelperTakeTwo.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd39b4d0-4382-45fe-866a-28386c77103c" name="Default" comment="" />
+      <created>1419066896139</created>
+      <option name="number" value="Default" />
+      <updated>1419066896139</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18194842" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16506922" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41761827" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24632953" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.182708" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5122349" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1389728" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19738989" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="107" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="NodeJSConfigurationType">
+        <watch expression="RomanNumerals.toRoman(4)" language="JavaScript" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AlgebraicLists.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="918">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vigenereCipher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7717206" vertical-offset="23" max-vertical-offset="1105">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SumStrings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnnectFour.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4020443" vertical-offset="903" max-vertical-offset="1513">
+          <caret line="69" column="29" selection-start-line="69" selection-start-column="29" selection-end-line="69" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RangeExtraction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regexPasswordValidation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08688245" vertical-offset="0" max-vertical-offset="587">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PeteTheBakerPartTwo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="663">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Snail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
+          <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Permutations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formatDuration.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="884">
+          <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nameSpace.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parseIntReloaded.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1003">
+          <caret line="46" column="51" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EscapeTheMines.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="624" max-vertical-offset="969">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appointment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="1904">
+          <caret line="54" column="33" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/complexCSVparser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="1139">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fibonacci/fibonacci.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hanoi-towers/testingStuff.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="39793" max-vertical-offset="81617">
+          <caret line="2349" column="0" selection-start-line="2349" selection-start-column="0" selection-end-line="2349" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vipEmail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56" vertical-offset="746" max-vertical-offset="3910">
+          <caret line="536" column="32" selection-start-line="536" selection-start-column="32" selection-end-line="536" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theGoodPartsProblems/6-15.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.3072727" vertical-offset="204" max-vertical-offset="2329">
+          <caret line="119" column="137" selection-start-line="119" selection-start-column="137" selection-end-line="119" selection-end-column="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theGoodPartsProblems/1-5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27818182" vertical-offset="0" max-vertical-offset="714">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorting/bubbleSort.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <caret line="18" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorting/quickSort.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sumIntervals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordCharLineCount.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1530">
+          <caret line="168" column="0" selection-start-line="168" selection-start-column="0" selection-end-line="216" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aichallenges.appspot.com/intro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aichallenges.appspot.com/authors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+          <caret line="46" column="51" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aichallenges.appspot.com/authors-better-solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1751">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aichallenges.appspot.com/authors-bayes-attempt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="333" max-vertical-offset="1207">
+          <caret line="118" column="5" selection-start-line="118" selection-start-column="5" selection-end-line="118" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vip-email/regular.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41058394" vertical-offset="3770" max-vertical-offset="6664">
+          <caret line="563" column="39" selection-start-line="563" selection-start-column="39" selection-end-line="563" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aichallenges.appspot.com/combinationsRecursive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/knapsackThree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14977974" vertical-offset="0" max-vertical-offset="454">
+          <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/knapsack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6475771" vertical-offset="1042" max-vertical-offset="1496">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/knapsackTakeTwo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28854626" vertical-offset="447" max-vertical-offset="901">
+          <caret line="36" column="95" selection-start-line="36" selection-start-column="95" selection-end-line="36" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aichallenges.appspot.com/schedule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2555066" vertical-offset="275" max-vertical-offset="833">
+          <caret line="122" column="0" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/subsetSum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5506608" vertical-offset="379" max-vertical-offset="833">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RomanNumeralsEncoder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8530466" vertical-offset="0" max-vertical-offset="1411">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validateSudoku.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.37226278" vertical-offset="255" max-vertical-offset="714">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SudokuSolutionValidator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5483871" vertical-offset="0" max-vertical-offset="731">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KataInstructions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="274">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KataTests.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+          <caret line="0" column="30" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RomanNumeralsHelper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3761062" vertical-offset="0" max-vertical-offset="527">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RomanNumeralsHelperTakeTwo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30088496" vertical-offset="0" max-vertical-offset="493">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hanoi-towers/hanoi-towers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.460177" vertical-offset="0" max-vertical-offset="884">
+          <caret line="121" column="0" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stacks-and-recursion-elimination/tailRecursionRemoval.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4426606" vertical-offset="0" max-vertical-offset="884">
+          <caret line="61" column="37" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stacks-and-recursion-elimination/fibonacci.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38990825" vertical-offset="0" max-vertical-offset="436">
+          <caret line="13" column="84" selection-start-line="13" selection-start-column="84" selection-end-line="13" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hanoi-towers/hanoi2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.896789" vertical-offset="0" max-vertical-offset="612">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="23" max-vertical-offset="459">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#hanoi#0" expanded="true" />
+            <element signature="n#!!block;n#solve#0;n#!!block;n#hanoi#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/moreTests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="436">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vip-email/dynamicChunk.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="11968" max-vertical-offset="12529">
+          <caret line="724" column="18" selection-start-line="724" selection-start-column="18" selection-end-line="724" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vip-email/vip.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="12919" max-vertical-offset="13396">
+          <caret line="775" column="18" selection-start-line="775" selection-start-column="18" selection-end-line="775" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#td#0;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#td#1;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#td#1;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#td#2;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#td#3;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#td#4;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#5;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#td#5;n#tr#1;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#1;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#table#1;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#1;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#1;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#2;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#span#0;n#td#2;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#1;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#span#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#2;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#span#0;n#td#2;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#4;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#span#0;n#td#4;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#3;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#span#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#2;n#tr#0;n#table#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#span#0;n#td#2;n#tr#0;n#table#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#5;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#span#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#9;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#0;n#tr#11;n#table#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#2;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#3;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#4;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#5;n#div#0;n#div#0;n#td#0;n#tr#5;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#6;n#table#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
