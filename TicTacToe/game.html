@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Tic Tac Toe</title>
+    <script src="play_new.js"></script>
+    <script>
+        var game = new TicTacToe(newGame(), 'x');
+        function playerMove(a,b) {
+            game.board[a][b] = 'o';
+        }
+        function computerMove() {
+            var mini = minimax(9, game);
+            var playRow = mini[1];
+            var playCol = mini[2];
+            var cell = document.getElementById('gameTable').rows[playRow].cells[playCol];
+            cell.innerHTML = 'x';
+            game.move('x', [playRow, playCol]);
+
+        }
+
+    </script>
+</head>
+
+<body>
+<button onclick="computerMove()">Start Game</button>
+<table border="1" align="center" id="gameTable">
+    <script>
+        for (var i=0; i<game.board.length; i+=1) {
+            document.write("<tr>");
+            for (j=0; j<3; j+=1) {
+                document.write('<td onClick=playerMove(' + i + ',' + j + ');this.innerHTML="o";computerMove()>' + game.board[i][j] + '</td>');
+            }
+            document.write("</tr>");
+        }
+
+    </script>
+
+</table>
+
+</body>
+</html>
